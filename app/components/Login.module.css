@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap");
+
+.container {
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Rubik", sans-serif;
+}
+
+
+.card {
+  width: 350px;
+  padding: 30px;
+  border-radius: 12px;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.fieldGroup {
+  margin-bottom: 16px;
+}
+.label {
+  display: block;
+  color: #333;
+  margin: 5px 0;
+  font-weight: 400;
+}
+
+.input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.input:focus {
+  border-color: navy;
+  outline: none;
+}
+
+.error {
+  color: red;
+  font-size: 12px;
+}
+
+.button {
+  width: 105%;
+  padding: 10px;
+  border: none;
+  border-radius: 6px;
+  background: navy;
+  color: white;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.button:hover {
+  background: #000080;
+}
+.linkText {
+  text-align: center;
+  margin-top: 15px;
+  font-size: 14px;
+}
+
+.linkText a {
+  color: navy;
+  text-decoration: underline;
+  cursor: pointer;
+}
