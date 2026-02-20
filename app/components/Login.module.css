@@ -8,7 +8,6 @@
   font-family: "Rubik", sans-serif;
 }
 
-
 .card {
   width: 350px;
   padding: 30px;
@@ -69,7 +68,7 @@
 .linkText {
   text-align: center;
   margin-top: 15px;
-  font-size: 14px;
+  font-size: 20px;
 }
 
 .linkText a {
