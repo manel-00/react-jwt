@@ -63,12 +63,12 @@
 }
 
 .button:hover {
-  background: #000080;
+  background: #d8720b;
 }
 .linkText {
   text-align: center;
   margin-top: 15px;
-  font-size: 18px;
+  font-size: 25px;
 }
 
 .linkText a {
